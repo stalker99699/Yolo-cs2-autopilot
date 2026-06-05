@@ -14,7 +14,7 @@ from ultralytics import YOLO
 import uvicorn
 
 # ================= НАСТРОЙКИ =================
-MODEL_PATH = "/home/stalker99699/Документы/CS_YOLO/best.onnx"
+MODEL_PATH = ".onnx"
 CONF_THRESHOLD = 0.50
 IMG_SIZE = 640
 TARGET_FPS = 30
