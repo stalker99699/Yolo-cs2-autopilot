@@ -23,6 +23,8 @@
 ## Зависимости
 
     pip install ultralytics mss fastapi uvicorn pynput opencv-python numpy
+    или
+    pip install ultralytics mss fastapi uvicorn pynput opencv-python numpy --break-system-packages
 
 Дополнительно для звука: `paplay` (PulseAudio) — обычно уже есть в Linux.
 
@@ -36,7 +38,7 @@
 
 ### cs.py — пути и параметры
 
-    MODEL_PATH = "/путь/к/best.onnx"   # ← укажи путь к своей модели
+    MODEL_PATH = "/путь/к/yolo-1417-cs-player.onnx"   # ← укажи путь к модели
     CONF_THRESHOLD = 0.50               # порог уверенности
     IMG_SIZE = 640                       # размер входа YOLO
     TARGET_FPS = 30                      # целевой FPS захвата
