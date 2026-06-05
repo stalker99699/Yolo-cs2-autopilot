@@ -1,5 +1,5 @@
 # Yolo-cs2-autopilot
-![AI-Assisted](https://img.shields.io/badge/AI--Assisted-Development-7B68EE?style=for-the-badge&logo=robot)
+🤖 Этот проект на 100% сгенерирован с помощью ИИ. Простите меня.
 
 Автопилот для CS2 на базе YOLO (ONNX) под Linux. Состоит из двух модулей: сервер детекции (YOLO + FastAPI) и триггербот.
 
