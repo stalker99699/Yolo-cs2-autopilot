@@ -99,7 +99,7 @@
 
     ├── cs.py                      # YOLO-детектор + FastAPI сервер
     ├── triger.py                  # Триггербот (клиент API)
-    ├── yolo-1417-cs-player.onnx   # ONNX модель
+    ├── yolo-1417-cs-player.onnx   # ONNX модель (https://github.com/stalker99699/Yolo-cs-player.git)
     ├── detections.json            # автогенерируемый JSON детекций
     ├── LICENSE                    # GPL-3.0
     └── README.md
