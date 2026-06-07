@@ -25,7 +25,7 @@ CLICK_BASE = 0.018      # Длительность нажатия ЛКМ
 CLICK_JITTER = 0.005    # ±5мс рандом нажатия
 JITTER = 0.008          # ±8мс рандом интервалов
 
-SOUND_PATH = "/home/stalker99699/CD/ADMIN/sound/activation/ding.mp3" # ← Путь к файлу
+SOUND_PATH = "/ding.mp3" # ← Путь к файлу (это микро звук для звукового обозначения изменений)
 SOUND_ENABLED = True
 # =============================================
 
